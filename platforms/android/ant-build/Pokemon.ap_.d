@@ -1,0 +1,26 @@
+/Users/Alexa/projects/mobile/pokemon/platforms/android/ant-build/Pokemon.ap_ \
+ : /Users/Alexa/projects/mobile/pokemon/platforms/android/res/drawable/icon.png \
+/Users/Alexa/projects/mobile/pokemon/platforms/android/res/drawable-hdpi/icon.png \
+/Users/Alexa/projects/mobile/pokemon/platforms/android/res/drawable-ldpi/icon.png \
+/Users/Alexa/projects/mobile/pokemon/platforms/android/res/drawable-mdpi/icon.png \
+/Users/Alexa/projects/mobile/pokemon/platforms/android/res/drawable-xhdpi/icon.png \
+/Users/Alexa/projects/mobile/pokemon/platforms/android/res/values/strings.xml \
+/Users/Alexa/projects/mobile/pokemon/platforms/android/res/xml/config.xml \
+/Users/Alexa/projects/mobile/pokemon/platforms/android/ant-build/res/drawable/icon.png \
+/Users/Alexa/projects/mobile/pokemon/platforms/android/ant-build/res/drawable-hdpi/icon.png \
+/Users/Alexa/projects/mobile/pokemon/platforms/android/ant-build/res/drawable-ldpi/icon.png \
+/Users/Alexa/projects/mobile/pokemon/platforms/android/ant-build/res/drawable-mdpi/icon.png \
+/Users/Alexa/projects/mobile/pokemon/platforms/android/ant-build/res/drawable-xhdpi/icon.png \
+/Users/Alexa/projects/mobile/pokemon/platforms/android/assets/_where-is-www.txt \
+/Users/Alexa/projects/mobile/pokemon/platforms/android/assets/www \
+/Users/Alexa/projects/mobile/pokemon/platforms/android/assets/www/cordova.js \
+/Users/Alexa/projects/mobile/pokemon/platforms/android/assets/www/cordova_plugins.js \
+/Users/Alexa/projects/mobile/pokemon/platforms/android/assets/www/css \
+/Users/Alexa/projects/mobile/pokemon/platforms/android/assets/www/img \
+/Users/Alexa/projects/mobile/pokemon/platforms/android/assets/www/index.html \
+/Users/Alexa/projects/mobile/pokemon/platforms/android/assets/www/js \
+/Users/Alexa/projects/mobile/pokemon/platforms/android/assets/www/css/index.css \
+/Users/Alexa/projects/mobile/pokemon/platforms/android/assets/www/img/logo.png \
+/Users/Alexa/projects/mobile/pokemon/platforms/android/assets/www/js/googlemap.js \
+/Users/Alexa/projects/mobile/pokemon/platforms/android/assets/www/js/index.js \
+/Users/Alexa/projects/mobile/pokemon/platforms/android/ant-build/AndroidManifest.xml \
